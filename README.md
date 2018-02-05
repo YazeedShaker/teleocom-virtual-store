@@ -1,1 +1,1 @@
-Vodafone Virtual Store
+Telecom Virtual Store
